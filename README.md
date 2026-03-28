@@ -1,7 +1,7 @@
 <h1 align="center">Hello</h1>
 
 <p align="center">
-  I am a student of Applied Mathematics and Computer Science.
+  Applied Mathematics and Computer Science student, 20 y/o
 </p>
 
 <p align="center">
