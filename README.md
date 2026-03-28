@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7bd06453-1805-4afd-9f1a-530981daa0e6" width="600" />
+  <img src="https://github.com/user-attachments/assets/7bd06453-1805-4afd-9f1a-530981daa0e6" width="400" />
 </p>
 
 ## Stack
