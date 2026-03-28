@@ -2,9 +2,8 @@
 
 I am a student of Applied Mathematics and Computer Science.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</p>
+![output](https://github.com/user-attachments/assets/7bd06453-1805-4afd-9f1a-530981daa0e6)
+
 
 ## Stack
 <p>
@@ -16,5 +15,15 @@ I am a student of Applied Mathematics and Computer Science.
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Axawys&layout=compact" />
 </p>
 
-## My dotfiles:
+## Projects
+### HashChecker
+A simple tool for verifying file hashes.  
+Python + GTK4  
+[View repository](https://github.com/Axawys/hash-checker)
+
+## Dotfiles
 [![dotfiles](https://img.shields.io/badge/dotfiles-repo-blue)](https://github.com/Axawys/dotfiles)
+
+## Links
+[![website](https://img.shields.io/badge/website-axawys.ru-black)](https://axawys.ru)
+[![telegram](https://img.shields.io/badge/telegram-@axawys-2CA5E0?logo=telegram&logoColor=white)](https://t.me/axawys)
