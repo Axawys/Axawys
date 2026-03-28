@@ -1,24 +1,33 @@
-# Hello
+<h1 align="center">Hello</h1>
 
-I am a student of Applied Mathematics and Computer Science.
+<p align="center">
+  I am a student of Applied Mathematics and Computer Science.
+</p>
 
-![output](https://github.com/user-attachments/assets/7bd06453-1805-4afd-9f1a-530981daa0e6)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7bd06453-1805-4afd-9f1a-530981daa0e6" width="700" />
+</p>
 
 ## Stack
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,docker,linux,bash,git" />
 </p>
 
 ## Projects
-### HashChecker
-A simple tool for verifying file hashes.  
-Python + GTK4  
-[View repository](https://github.com/Axawys/hash-checker)
 
-## Dotfiles
-[![dotfiles](https://img.shields.io/badge/dotfiles-repo-blue)](https://github.com/Axawys/dotfiles)
+### [HashChecker](https://github.com/Axawys/hash-checker)
+A desktop tool for verifying file hashes.  
+Python + GTK4
+
+### [dotfiles](https://github.com/Axawys/dotfiles)
+My Linux configuration and environment setup.
 
 ## Links
-[![website](https://img.shields.io/badge/website-axawys.ru-black)](https://axawys.ru)
-[![telegram](https://img.shields.io/badge/telegram-@axawys-2CA5E0?logo=telegram&logoColor=white)](https://t.me/axawys)
+<p align="center">
+  <a href="https://axawys.ru">
+    <img src="https://img.shields.io/badge/website-axawys.ru-black" />
+  </a>
+  <a href="https://t.me/axawys">
+    <img src="https://img.shields.io/badge/telegram-@axawys-2CA5E0?logo=telegram&logoColor=white" />
+  </a>
+</p>
