@@ -10,11 +10,6 @@ I am a student of Applied Mathematics and Computer Science.
   <img src="https://skillicons.dev/icons?i=python,docker,linux,git" />
 </p>
 
-## Top Languages
-<p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Axawys&layout=compact" />
-</p>
-
 ## Projects
 ### HashChecker
 A simple tool for verifying file hashes.  
