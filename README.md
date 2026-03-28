@@ -7,7 +7,7 @@ I am a student of Applied Mathematics and Computer Science.
 
 ## Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,docker,linux,bash,git" />
 </p>
 
 ## Projects
