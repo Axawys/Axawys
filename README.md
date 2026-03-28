@@ -16,11 +16,11 @@
 ## Projects
 
 ### [HashChecker](https://github.com/Axawys/hash-checker)
-A desktop tool for verifying file hashes.  
+Desktop tool for verifying file hashes.  
 Python + GTK4
 
 ### [dotfiles](https://github.com/Axawys/dotfiles)
-My Linux configuration and environment setup.
+Linux configuration and development environment.
 
 ## Links
 <p align="center">
