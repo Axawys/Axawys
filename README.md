@@ -17,7 +17,7 @@
 
 ### [HashChecker](https://github.com/Axawys/hash-checker)
 Desktop tool for verifying file hashes.  
-Python + GTK4
+Flutter
 
 ### [dotfiles](https://github.com/Axawys/dotfiles)
 Linux configuration and development environment.
