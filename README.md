@@ -10,7 +10,7 @@
 
 ## Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,linux,bash,git" />
+  <img src="https://skillicons.dev/icons?i=python,django,flutter,docker,linux,bash,git" />
 </p>
 
 ## Projects
