@@ -19,9 +19,6 @@
 Desktop tool for verifying file hashes.  
 Flutter
 
-### [dotfiles](https://github.com/Axawys/dotfiles)
-Linux configuration and development environment.
-
 ## Links
 <p align="center">
   <a href="https://axawys.ru">
