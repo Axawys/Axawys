@@ -17,9 +17,6 @@ Flutter
 
 ## Links
 <p align="center">
-  <a href="https://axawys.ru">
-    <img src="https://img.shields.io/badge/website-axawys.ru-black" />
-  </a>
   <a href="https://t.me/axawys">
     <img src="https://img.shields.io/badge/telegram-@axawys-2CA5E0?logo=telegram&logoColor=white" />
   </a>
