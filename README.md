@@ -12,8 +12,10 @@
 ## Projects
 
 ### [HashChecker](https://github.com/Axawys/hash-checker)
-Desktop tool for verifying file hashes.  
-Flutter
+Cross-platform desktop gui tool for verifying file hashes.  
+
+### [PackFoundry](https://github.com/Axawys/PackFoundry)
+Build Flutter apps for every platform in just a few clicks
 
 ## Links
 <p align="center">
