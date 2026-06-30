@@ -6,7 +6,7 @@
 
 ## Работаю с этим:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flutter,docker,linux,bash,git" />
+  <img src="https://skillicons.dev/icons?i=python,django,dart,flutter,docker,linux,bash,git" />
 </p>
 
 ## Проектики
