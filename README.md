@@ -11,11 +11,22 @@
 
 ## Projects
 
+### [Lxprofiler](https://github.com/Axawys/lxprofiler)
+Pure-bash TUI that scans your linux os and reveals your user archetype: from Gamer to Anonymous
+
+<img width="773" height="607" alt="image" src="https://github.com/user-attachments/assets/859b6b5e-c41b-4473-b149-548164588902" />
+
 ### [HashChecker](https://github.com/Axawys/hash-checker)
-Cross-platform desktop gui tool for verifying file hashes.  
+Windows & Linux gui tool for verifying file hashes.
+
+<img width="518" height="740" alt="image" src="https://github.com/user-attachments/assets/0e96c127-c406-438c-b93d-1fecd2cb2f23" />
+
 
 ### [PackFoundry](https://github.com/Axawys/PackFoundry)
 Build Flutter apps for every platform in just a few clicks
+
+<img width="1426" height="824" alt="image" src="https://github.com/user-attachments/assets/2a07a07b-f5e9-4867-8a7b-6600fffae2bd" />
+
 
 ## Links
 <p align="center">
