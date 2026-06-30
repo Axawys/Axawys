@@ -1,4 +1,4 @@
-<h1 align="center">What are you lookin’ for here, buddy?</h1>
+<h1 align="center">Посмотри мои проекты, я старался.</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7bd06453-1805-4afd-9f1a-530981daa0e6" width="400" />
