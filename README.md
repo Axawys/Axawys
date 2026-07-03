@@ -1,3 +1,14 @@
+<h1 align="center">Посмотри мои проекты, я старался.</h1>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7bd06453-1805-4afd-9f1a-530981daa0e6" width="400" />
+</p>
+
+## Работаю с этим:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,dart,flutter,docker,linux,bash,git" />
+</p>
+
 ## Проектики
 
 ### [Lxprofiler](https://github.com/Axawys/lxprofiler)
