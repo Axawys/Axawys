@@ -21,7 +21,8 @@
   <img src="https://img.shields.io/github/last-commit/Axawys/lxprofiler?style=flat&logoColor=white&color=6272a4&labelColor=282a36" />
 </p>
 
-<img width="773" alt="image" src="https://github.com/user-attachments/assets/859b6b5e-c41b-4473-b149-548164588902" />
+<img width="899" height="706" alt="image" src="https://github.com/user-attachments/assets/372a0805-432c-4a25-a0e9-c02a9d4880fd" />
+
 
 ### [HashChecker](https://github.com/Axawys/hash-checker)
 Приложение с поддержкой виндовс и линукс для проверки хеша файлов в несколько кликов (также можно использовать для вычисления хеша).
@@ -45,4 +46,5 @@
   <img src="https://img.shields.io/github/last-commit/Axawys/PackFoundry?style=flat&logoColor=white&color=6272a4&labelColor=282a36" />
 </p>
 
-<img width="1426" alt="image" src="https://github.com/user-attachments/assets/2a07a07b-f5e9-4867-8a7b-6600fffae2bd" />
+<img width="1419" height="1232" alt="image" src="https://github.com/user-attachments/assets/eb44e256-8a9b-4ecd-9437-0dc04e6a35ce" />
+
