@@ -21,7 +21,7 @@
 
 <img width="959" height="502" alt="project" src="https://github.com/user-attachments/assets/5c5a0c1e-2f99-439b-bb15-32f489262e10" />
 
-
+---
 
 ### [BloxAwys](https://github.com/Axawys/BloxAwys)
 Менеджер аккаунтов Roblox. Запускает несколько сессий одновременно, записывает и воспроизводит макросы.
@@ -36,6 +36,7 @@
 <img width="314" height="295" alt="Screenshot 2026-10-29 234753" src="https://github.com/user-attachments/assets/467194a1-d4e7-4520-9aa4-1cf372e27204" />
 <img width="311" height="323" alt="Screenshot 2026-10-29 234653" src="https://github.com/user-attachments/assets/06a95d86-3331-41d5-b42c-bdf015c3cb56" />
 
+---
 
 ### [HashChecker](https://github.com/Axawys/hash-checker)
 Кроссплатформенное приложение для вычисления хеш-сумм файлов: проверка целостности или создание контрольных сумм в пару кликов.
